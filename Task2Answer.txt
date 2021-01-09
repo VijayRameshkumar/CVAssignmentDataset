@@ -1,0 +1,31 @@
+1. Feasibility​:
+
+	Yes, upto some extend we can find video source based on metadata and it's content. But, it's quite time consuming. We can automate 	this by doing multiple parallel content investigating process.
+
+2. Methodology:
+
+	VIDEO - Provenance:
+
+		Hyperlink Investigation
+		other TAGS information for an ex., Artist, Title, Year, Rating, Director, Writer, URLS, Publisher, etc..
+		Diital Copy Right
+
+	Content Investiation:
+
+		Image Search (using common web search engines)
+		TinyEye (Reverse Image Search)
+
+		Audio Language (Audio - Processing) to get to know (language, accent) of the content to locate "geography".
+
+		Image content Investigate First and last 1 min of Video Content to get to know precise location of the video content. 				ex., (License Plate, advertising Poster, etc.,)
+
+		OCR in image to extract text.
+
+		Based on the available information search in specified country search engine using VPN to get relevant results.
+
+		Amnesty International tool will be an other choice.
+
+3. Challenges:
+	Most of videos don't have proper metadata. so, mostly we should go with content investigation.
+	It's quite time consuming.
+	
